@@ -4,7 +4,7 @@
 ## Generative Artist
 ## Currently on NFT Space https://foundation.app/@rigvedmaanas
  
-# Stuff That I am good at
+# Stuff that I am good at
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
