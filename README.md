@@ -21,6 +21,7 @@
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img alt="AdobeXD" src="https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 </p>
 
 # OS that I love using
