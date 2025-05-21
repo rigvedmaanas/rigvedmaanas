@@ -1,6 +1,6 @@
 # Hi there, I'm Rigved Maanas 👋
 
-![banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=800&height=50&lines=Generative+Artist+%7C+Developer+%7C+Lifelong+Learner;Creating+Art+with+Code+from+Kerala%2C+India)
+![banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=800&height=50&lines=Generative+Artist+%7C+Developer;Creating+Art+with+Code+from+Kerala%2C+India)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rigvedmaanas&style=flat-square&color=36bcf7" alt="Profile views"/>
