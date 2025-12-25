@@ -26,7 +26,7 @@
 | ⭐️ | Project | Description |
 |:-:|---------|-------------|
 |   |[Leaderboard](https://leaderboard.rigvedmaanas.com/) | The Ultimate leaderboard for all your events|
-| 251 | [CustomTkinterBuilder](https://github.com/rigvedmaanas/CustomTkinterBuilder) | RAD tool for Custom Tkinter to build complex Python UIs lightning fast. |
+| 310 | [CustomTkinterBuilder](https://github.com/rigvedmaanas/CustomTkinterBuilder) | RAD tool for Custom Tkinter to build complex Python UIs lightning fast. |
 | 10 | [CustomTkinterThemes](https://github.com/rigvedmaanas/CustomTkinterThemes) | A collection of beautiful themes for the customtkinter library. |
 | 6 | [CustomTkinterCodeViewer](https://github.com/rigvedmaanas/CustomTkinterCodeViewer) | Code viewer with syntax highlighting for customtkinter. |
 | 6 | [CTkSlideView](https://github.com/rigvedmaanas/CTkSlideView) | Slideshow/carousel for customtkinter Python UIs. |
