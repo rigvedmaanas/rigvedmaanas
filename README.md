@@ -13,7 +13,7 @@
 ## 👋 About Me
 
 - 🧑‍💻 **Seeker and Creator:** Exploring the intersection of art, code, and technology.
-- 📚 **Learner:** 16-year-old generative artist and developer from Kerala, India.
+- 📚 **Learner:** 17-year-old generative artist and developer from Kerala, India.
 - 💡 **Interests:** Generative art, AI/ML, Python, UI/UX, open source.
 - 🏆 **Achievements:**  
   - Developer Program Member  
