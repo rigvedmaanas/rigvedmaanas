@@ -18,7 +18,7 @@
 - 🏆 **Achievements:**  
   - Developer Program Member  
   - Starstruck ×2, Galaxy Brain, Pull Shark, Quickdraw (GitHub Achievements)
-
+  - Discovered and responsibly disclosed CVE-2026-20178, a Cisco Webex App Open Redirect vulnerability, officially credited by Cisco PSIRT.
 ---
 
 ## 🚀 Featured Projects
